@@ -1,0 +1,29 @@
+﻿<Window x:Class="EventCommandExample.LogInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:EventCommandExample"
+        Title="LogInWindow" Height="150" Width="300">
+    <Window.Resources>
+        <local:LogInViewModel x:Key="logInViewModel" />
+    </Window.Resources>
+    <Grid DataContext="{Binding Source={StaticResource logInViewModel}}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        
+        <Label Grid.Column="0" Grid.Row="0" Content="UserName:" />
+        <TextBox Grid.Column="1" Grid.Row="0" Text="{Binding Path=UserName, UpdateSourceTrigger=PropertyChanged}" />
+
+        <Label Grid.Column="0" Grid.Row="1" Content="Password:" />
+        <TextBox Grid.Column="1" Grid.Row="1" Text="{Binding Path=Password, UpdateSourceTrigger=PropertyChanged}" />
+        
+        <Button Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Right" Content="Log In" Command="{Binding LogInCommand}" />
+    
+    </Grid>
+</Window>

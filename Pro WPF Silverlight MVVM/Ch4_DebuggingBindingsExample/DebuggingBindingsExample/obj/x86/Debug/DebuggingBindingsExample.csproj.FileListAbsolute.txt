@@ -1,0 +1,15 @@
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\bin\Debug\DebuggingBindingsExample.exe
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\bin\Debug\DebuggingBindingsExample.pdb
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\MainWindow.g.cs
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\App.g.cs
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\DebuggingBindingsExample_MarkupCompile.cache
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\DebuggingBindingsExample_MarkupCompile.lref
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\MainWindow.baml
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\DebuggingBindingsExample.g.resources
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\DebuggingBindingsExample.Properties.Resources.resources
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\DebuggingBindingsExample.exe
+D:\Users7\Gary Hall\Development\DebuggingBindingsExample\DebuggingBindingsExample\obj\x86\Debug\DebuggingBindingsExample.pdb

@@ -1,0 +1,13 @@
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\App.g.cs
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\LogicalAndVisualTreeExample_MarkupCompile.cache
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\bin\Debug\LogicalAndVisualTreeExample.exe
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\bin\Debug\LogicalAndVisualTreeExample.pdb
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\MainWindow.baml
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\MainWindow.g.cs
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\LogicalAndVisualTreeExample.g.resources
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\LogicalAndVisualTreeExample.Properties.Resources.resources
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\LogicalAndVisualTreeExample.exe
+D:\Users7\Gary Hall\Development\LogicalAndVisualTreeExample\LogicalAndVisualTreeExample\obj\x86\Debug\LogicalAndVisualTreeExample.pdb

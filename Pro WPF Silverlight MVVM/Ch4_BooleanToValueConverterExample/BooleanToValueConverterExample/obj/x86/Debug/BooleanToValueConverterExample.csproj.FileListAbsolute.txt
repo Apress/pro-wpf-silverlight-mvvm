@@ -1,0 +1,15 @@
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\MainWindow.g.cs
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\App.g.cs
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\BooleanToValueConverterExample_MarkupCompile.cache
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\BooleanToValueConverterExample_MarkupCompile.lref
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\BooleanToValueConverterExample.exe
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\BooleanToValueConverterExample.pdb
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\bin\Debug\BooleanToValueConverterExample.exe
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\bin\Debug\BooleanToValueConverterExample.pdb
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\MainWindow.baml
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\BooleanToValueConverterExample.g.resources
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\BooleanToValueConverterExample.Properties.Resources.resources
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users7\Gary Hall\Development\BooleanToValueConverterExample\BooleanToValueConverterExample\obj\x86\Debug\GenerateResource.write.1.tlog

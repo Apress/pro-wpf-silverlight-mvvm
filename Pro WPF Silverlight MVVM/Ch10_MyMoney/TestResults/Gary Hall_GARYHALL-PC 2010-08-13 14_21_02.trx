@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7558ac39-27e2-4c94-bccc-7a0b86a3cbba" name="Gary Hall@GARYHALL-PC 2010-08-13 14:21:02" runUser="GaryHall-PC\Gary Hall" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e533ef08-9b5d-45f9-9cf4-b65cf17f0508">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Gary Hall_GARYHALL-PC 2010-08-13 14_21_02">
+      <DeploymentItem filename="D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model\bin\Debug\MyMoney.Model.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-08-13T14:21:02.9048297+01:00" queuing="2010-08-13T14:21:03.8438835+01:00" start="2010-08-13T14:21:03.8538840+01:00" finish="2010-08-13T14:21:04.1499010+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestCalculateNewBalanceWithDeposit" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="9a8e8d08-2ba9-5e87-0fee-e892910cdbf8">
+      <Execution id="d1abf861-4a58-4eee-8bb6-03fe98e38c10" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.EntryTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCalculateNewBalanceWithDeposit" />
+    </UnitTest>
+    <UnitTest name="TestCalculateNewBalanceWithDepost" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="db77feae-09b4-89e8-7067-b755532cf45c">
+      <Execution id="f79fb54a-e89c-40c8-857a-3ad9d9c02533" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.EntryTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCalculateNewBalanceWithDepost" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="9a8e8d08-2ba9-5e87-0fee-e892910cdbf8" executionId="d1abf861-4a58-4eee-8bb6-03fe98e38c10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="db77feae-09b4-89e8-7067-b755532cf45c" executionId="f79fb54a-e89c-40c8-857a-3ad9d9c02533" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d1abf861-4a58-4eee-8bb6-03fe98e38c10" testId="9a8e8d08-2ba9-5e87-0fee-e892910cdbf8" testName="TestCalculateNewBalanceWithDeposit" computerName="GARYHALL-PC" duration="00:00:00.0181361" startTime="2010-08-13T14:21:03.8578843+01:00" endTime="2010-08-13T14:21:04.1108987+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d1abf861-4a58-4eee-8bb6-03fe98e38c10">
+    </UnitTestResult>
+    <UnitTestResult executionId="f79fb54a-e89c-40c8-857a-3ad9d9c02533" testId="db77feae-09b4-89e8-7067-b755532cf45c" testName="TestCalculateNewBalanceWithDepost" computerName="GARYHALL-PC" duration="00:00:00.0161032" startTime="2010-08-13T14:21:04.1128988+01:00" endTime="2010-08-13T14:21:04.1349001+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f79fb54a-e89c-40c8-857a-3ad9d9c02533">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at MyMoney.Model.Test.EntryTests.TestCalculateNewBalanceWithDepost() in D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model.Test\EntryTests.cs:line 33
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

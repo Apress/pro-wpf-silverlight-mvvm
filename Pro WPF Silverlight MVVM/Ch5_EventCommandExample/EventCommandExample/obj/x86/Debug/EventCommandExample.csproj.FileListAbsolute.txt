@@ -1,0 +1,17 @@
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\App.g.cs
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\EventCommandExample_MarkupCompile.cache
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\MainWindow.g.cs
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\EventCommandExample_MarkupCompile.lref
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\LogInWindow.g.cs
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\LogInWindow.baml
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\EventCommandExample.exe
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\EventCommandExample.pdb
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\bin\Debug\EventCommandExample.exe
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\bin\Debug\EventCommandExample.pdb
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\MainWindow.baml
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\EventCommandExample.g.resources
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\EventCommandExample.Properties.Resources.resources
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users7\Gary Hall\Development\EventCommandExample\EventCommandExample\obj\x86\Debug\GenerateResource.write.1.tlog

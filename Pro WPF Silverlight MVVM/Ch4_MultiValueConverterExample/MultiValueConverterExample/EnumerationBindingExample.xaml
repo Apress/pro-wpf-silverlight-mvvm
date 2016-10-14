@@ -1,0 +1,15 @@
+﻿<Window x:Class="MultiValueConverterExample.EnumerationBindingExample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        xmlns:windows="clr-namespace:System.Windows;assembly=PresentationCore"
+        Title="EnumerationBindingExample" Height="300" Width="300">
+    <Window.Resources>
+        <ObjectDataProvider x:Key="visibilityValues" ObjectType="{x:Type system:Enum}" MethodName="GetValues">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="windows:Visibility" />
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+    </Window.Resources>
+    <ListBox ItemsSource="{Binding Source={StaticResource visibilityValues}}" SelectionMode="Single" />
+</Window>

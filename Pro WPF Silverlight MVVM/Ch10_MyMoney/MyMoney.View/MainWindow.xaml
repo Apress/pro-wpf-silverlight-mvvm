@@ -1,0 +1,40 @@
+﻿<Window x:Class="MyMoney.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:view="clr-namespace:MyMoney.View"
+        xmlns:viewModel="clr-namespace:MyMoney.ViewModel;assembly=MyMoney.ViewModel"
+        DataContext="{StaticResource mainWindowViewModel}"
+        Title="My Money" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="5" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        <TreeView Grid.Column="0" Grid.Row="0" ItemsSource="{Binding Accounts}">
+            <TreeView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Add Account..." Click="ShowAddAccountDialog" />
+                </ContextMenu>
+            </TreeView.ContextMenu>
+            <TreeView.ItemTemplate>
+                <DataTemplate>
+                    <ContentPresenter Content="{Binding}" viewModel:ClickCommands.MouseEventParameter="{Binding}" viewModel:ClickCommands.MouseDoubleClickCommand="{Binding Source={StaticResource mainWindowViewModel}, Path=OpenAccountCommand}" />
+                </DataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
+        <GridSplitter Grid.Row="0" Grid.Column="1" Height="Auto" Width="Auto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+        <TabControl Grid.Column="2" Grid.Row="0" ItemsSource="{Binding OpenAccounts}" SelectedItem="{Binding SelectedAccount}">
+            <TabControl.ContentTemplate>
+                <DataTemplate>
+                    <view:EntriesView DataContext="{Binding}" />
+                </DataTemplate>
+            </TabControl.ContentTemplate>
+        </TabControl>
+        <ContentControl Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="3" Content="{Binding NetWorth}" ContentStringFormat="Net Worth: {0}" />
+    </Grid>
+</Window>

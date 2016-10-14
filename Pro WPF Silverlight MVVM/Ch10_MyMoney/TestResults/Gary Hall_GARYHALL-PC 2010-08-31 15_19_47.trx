@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6e80dc43-4c51-4664-84ac-326e4e9f00db" name="Gary Hall@GARYHALL-PC 2010-08-31 15:19:47" runUser="GaryHall-PC\Gary Hall" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e533ef08-9b5d-45f9-9cf4-b65cf17f0508">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Gary Hall_GARYHALL-PC 2010-08-31 15_19_47">
+      <DeploymentItem filename="D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.ViewModel\bin\Debug\MyMoney.ViewModel.dll" />
+      <DeploymentItem filename="D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model\bin\Debug\MyMoney.Model.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-08-31T15:19:47.5729247+01:00" queuing="2010-08-31T15:19:48.9310024+01:00" start="2010-08-31T15:19:48.9780051+01:00" finish="2010-08-31T15:19:49.8950575+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="37" executed="37" passed="37" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestAccountsCannotBeDirectlyCyclical" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="719b99a2-ccd9-d901-c33e-c7ca5b16d735">
+      <Execution id="71cbbb69-7849-4750-858e-518ace10adc9" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.CompositeAccountTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAccountsCannotBeDirectlyCyclical" />
+    </UnitTest>
+    <UnitTest name="TestMoneyGreaterThan" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="a131c1cd-5ebb-f896-bf70-e19826c2755a">
+      <Execution id="b0207c99-5d33-4d4c-a5ef-5a79293b5f29" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyGreaterThan" />
+    </UnitTest>
+    <UnitTest name="TestDecimalSubtraction" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="ec648528-7639-30f5-a594-aa50e078b4a6">
+      <Execution id="868e7d70-c9a8-466c-8351-7549efcd08d8" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDecimalSubtraction" />
+    </UnitTest>
+    <UnitTest name="TestSimpleGBPAmount" storage="d:\users7\gary hall\development\mymoney.model\mymoney.viewmodel.test\bin\debug\mymoney.viewmodel.test.dll" id="c573a8cc-b339-9d86-475e-c296c732a297">
+      <Execution id="57620d94-06e2-45a0-98d2-91528b393240" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.ViewModel.Test/bin/Debug/MyMoney.ViewModel.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.ViewModel.Test.MoneyViewModelTest, MyMoney.ViewModel.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSimpleGBPAmount" />
+    </UnitTest>
+    <UnitTest name="TestNetWorth" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="1fcf22cd-f54d-e1e6-fd31-6cfb148ed886">
+      <Execution id="ef961c13-9110-4236-aa8c-305135273bf6" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.PersonTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNetWorth" />
+    </UnitTest>
+    <UnitTest name="TestMoneyLessThan_WithDifferentCurrencies" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="0e419ff0-125a-7bf6-462b-1ac3be8e60b3">
+      <Execution id="eb7320a9-9d25-4007-a57a-694208dd9c7a" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyLessThan_WithDifferentCurrencies" />
+    </UnitTest>
+    <UnitTest name="TestMoneySubtraction" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="76663220-b66f-a344-1b95-70336a50cd79">
+      <Execution id="221ff5b4-01f3-4b4f-9d4c-b47ffbae3aa3" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneySubtraction" />
+    </UnitTest>
+    <UnitTest name="TestRemoveAccount" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="4846a8e9-75dc-cada-1387-c372c7702a90">
+      <Execution id="9d6fbd2f-55bb-4bdc-ae75-faf3adf45ded" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.CompositeAccountTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestRemoveAccount" />
+    </UnitTest>
+    <UnitTest name="TestNegativeGBPAmount" storage="d:\users7\gary hall\development\mymoney.model\mymoney.viewmodel.test\bin\debug\mymoney.viewmodel.test.dll" id="7525f8c9-a9cc-ce6e-158a-8531bc3dff4c">
+      <Execution id="340d4010-b269-4406-bc61-6c61203754e0" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.ViewModel.Test/bin/Debug/MyMoney.ViewModel.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.ViewModel.Test.MoneyViewModelTest, MyMoney.ViewModel.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNegativeGBPAmount" />
+    </UnitTest>
+    <UnitTest name="TestAccountBalanceAllDeposits" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="355d3f79-faa6-4ed9-bc49-0057d3295009">
+      <Execution id="e634b65b-ac51-4381-95c0-d62c7509e789" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.LeafAccountTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAccountBalanceAllDeposits" />
+    </UnitTest>
+    <UnitTest name="TestMoneyEquality" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="78c91968-703b-bff5-6f93-3d07f3ffd761">
+      <Execution id="45123bd0-db23-4693-9a71-dd48b8e8ac9c" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyEquality" />
+    </UnitTest>
+    <UnitTest name="TestIntegerDivision" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="55d7d97b-90da-424d-f7a3-3b4d69b551e8">
+      <Execution id="c0db64bc-0ae4-4da6-b569-572c01ce66f7" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIntegerDivision" />
+    </UnitTest>
+    <UnitTest name="TestAccountsWithSameNameCanExistInHierarchy" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="0df82333-8dd3-2386-4548-831092c0a100">
+      <Execution id="eaddf298-194c-4448-a7cc-131f5d3db2cb" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.CompositeAccountTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAccountsWithSameNameCanExistInHierarchy" />
+    </UnitTest>
+    <UnitTest name="TestMoneyGreaterThanOrEqualTo" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="28f7f648-05a2-44d1-103b-7fd5a2e1924b">
+      <Execution id="c4301c69-7216-49c4-b51e-85f3aa0438db" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyGreaterThanOrEqualTo" />
+    </UnitTest>
+    <UnitTest name="ItShouldDelegateToThePersonForTheNetWorth" storage="d:\users7\gary hall\development\mymoney.model\mymoney.viewmodel.test\bin\debug\mymoney.viewmodel.test.dll" id="7b376514-6f80-ca16-fb57-fb767aea817f">
+      <Execution id="b460dfc6-6d0e-4500-93e8-b27a8ea8492b" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.ViewModel.Test/bin/Debug/MyMoney.ViewModel.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.ViewModel.Test.MainWindowViewModelTests, MyMoney.ViewModel.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ItShouldDelegateToThePersonForTheNetWorth" />
+    </UnitTest>
+    <UnitTest name="TestMoneyAddition_WithDifferentCurrencies" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="8dcc9c7e-1445-b321-953e-5e9ded9d51f6">
+      <Execution id="e6baa658-9331-419f-b8a3-f8f06dcfba75" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyAddition_WithDifferentCurrencies" />
+    </UnitTest>
+    <UnitTest name="TestAccountsCannotBeIndirectlyCyclical" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="84331712-c27b-c50b-772b-5da9c5e5f9ca">
+      <Execution id="51baa522-eace-443c-a634-d469dc35e655" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.CompositeAccountTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAccountsCannotBeIndirectlyCyclical" />
+    </UnitTest>
+    <UnitTest name="TestMoneyGreaterThanOrEqualTo_WithDifferentCurrencies" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="e3259fc0-849f-28fd-20c2-ca89775496f9">
+      <Execution id="64ca7edc-e271-4161-9838-4d06132eeea1" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyGreaterThanOrEqualTo_WithDifferentCurrencies" />
+    </UnitTest>
+    <UnitTest name="TestMoneySubtraction_WithDifferentCurrencies" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="7de16891-0c69-f9dd-d022-02f5a9c59639">
+      <Execution id="dbb0590e-d112-48ad-8f7f-9b1cb12895e2" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneySubtraction_WithDifferentCurrencies" />
+    </UnitTest>
+    <UnitTest name="TestMoneyLessThanOrEqualTo" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="24c04acd-26f2-cbd9-bbfa-3094dab94a1b">
+      <Execution id="16ad23d8-5638-4539-b6b4-6bc33ee5d049" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyLessThanOrEqualTo" />
+    </UnitTest>
+    <UnitTest name="TestNegativeUSDAmount" storage="d:\users7\gary hall\development\mymoney.model\mymoney.viewmodel.test\bin\debug\mymoney.viewmodel.test.dll" id="52dd4129-b1ee-c209-25fe-1e84cf03a0b4">
+      <Execution id="dfbf6866-27ae-4cf6-ad03-c83a61194dd8" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.ViewModel.Test/bin/Debug/MyMoney.ViewModel.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.ViewModel.Test.MoneyViewModelTest, MyMoney.ViewModel.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNegativeUSDAmount" />
+    </UnitTest>
+    <UnitTest name="TestRemoveAccount" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="99beaaa9-ba00-453d-6f49-d7020635f7ee">
+      <Execution id="14f8f0e3-671f-485d-aeb4-abb784984f03" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.PersonTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestRemoveAccount" />
+    </UnitTest>
+    <UnitTest name="TestAccountOnlyAppearsOnceInHierarchy" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="447f6a17-9c3f-29ed-3a8a-ed52d629683f">
+      <Execution id="b9e1c6e1-fa0b-4f9f-8d12-2b2d3c41d1da" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.CompositeAccountTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAccountOnlyAppearsOnceInHierarchy" />
+    </UnitTest>
+    <UnitTest name="TestSimpleUSDAmount" storage="d:\users7\gary hall\development\mymoney.model\mymoney.viewmodel.test\bin\debug\mymoney.viewmodel.test.dll" id="d1513a65-fdf8-872b-22b5-b71e36fa61db">
+      <Execution id="6ccdd21d-8872-4ee6-ba17-ee4e7206a362" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.ViewModel.Test/bin/Debug/MyMoney.ViewModel.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.ViewModel.Test.MoneyViewModelTest, MyMoney.ViewModel.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSimpleUSDAmount" />
+    </UnitTest>
+    <UnitTest name="TestCalculateNewBalanceWithDeposit" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="9a8e8d08-2ba9-5e87-0fee-e892910cdbf8">
+      <Execution id="66c93d14-877c-44f7-949f-9b3310a0293a" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.EntryTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCalculateNewBalanceWithDeposit" />
+    </UnitTest>
+    <UnitTest name="TestAccountsWithSameNameCannotShareParent" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="2cf52dbe-eb7f-1137-b0bc-942374cee146">
+      <Execution id="e7d9e5b5-f9c3-4d21-b893-ce1bded0bf14" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.CompositeAccountTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAccountsWithSameNameCannotShareParent" />
+    </UnitTest>
+    <UnitTest name="TestCalculateNewBalanceWithWithdrawal" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="cf7300a1-3521-5eea-bdb6-deaacc452e6a">
+      <Execution id="f3376ceb-b044-4f3e-ac87-0a417130d7af" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.EntryTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCalculateNewBalanceWithWithdrawal" />
+    </UnitTest>
+    <UnitTest name="TestDecimalAddition" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="9b2d885b-a8a7-03c1-299f-d762e20ec0ee">
+      <Execution id="d0839673-6419-48c4-bb91-f57ecefefd20" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDecimalAddition" />
+    </UnitTest>
+    <UnitTest name="TestAddAccount" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="b2747cb5-7215-0a6d-5362-1b292dab29c8">
+      <Execution id="00167f0a-73a5-41e8-8ac9-154a0c812247" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.CompositeAccountTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAddAccount" />
+    </UnitTest>
+    <UnitTest name="TestMoneyAddition" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="176a39b7-5a56-778d-3917-c9942629793d">
+      <Execution id="66fe31c4-88b8-4a14-9290-55c25d97c064" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyAddition" />
+    </UnitTest>
+    <UnitTest name="TestMoneyInequality" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="8107676f-e16c-cdfd-b679-3689e4311f36">
+      <Execution id="28b372f4-1926-40bd-8604-4bb0ef02fe37" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyInequality" />
+    </UnitTest>
+    <UnitTest name="TestIntegerMultiplication" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="14c26f63-240b-e300-a8d6-f98af12ef12c">
+      <Execution id="dbbd8a14-3c2b-4499-a2d6-66d732edd10d" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIntegerMultiplication" />
+    </UnitTest>
+    <UnitTest name="TestMoneyLessThanOrEqualTo_WithDifferentCurrencies" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="871f49a1-e582-cdac-a951-441af8971063">
+      <Execution id="20f2d23b-54d0-40b3-9df2-dbfb34c87bf8" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyLessThanOrEqualTo_WithDifferentCurrencies" />
+    </UnitTest>
+    <UnitTest name="TestAddAccount" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="b5d2a033-45cf-3e8b-11d7-5e8ab35dc3ae">
+      <Execution id="2cfb753a-2b66-4fe1-bd5b-7956ab3dfd81" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.PersonTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAddAccount" />
+    </UnitTest>
+    <UnitTest name="TestMoneyLessThan" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="c1a50ef4-2314-875b-518e-aabf370704d1">
+      <Execution id="9ebd6c4c-65b7-436b-b390-e7bfeb5b72ec" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyLessThan" />
+    </UnitTest>
+    <UnitTest name="TestDefaultAccountBalanceIsZero" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="b1659d28-b526-6c16-48de-69e9c7dcfe18">
+      <Execution id="d79371af-846a-44a9-8426-b0f45a289d63" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.LeafAccountTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDefaultAccountBalanceIsZero" />
+    </UnitTest>
+    <UnitTest name="TestMoneyGreaterThan_WithDifferentCurrencies" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="199832f9-d1c4-82b4-6ea8-6f9b106eb51f">
+      <Execution id="1672e627-cb7d-49c2-a34f-2d7e58e41805" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.MoneyTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMoneyGreaterThan_WithDifferentCurrencies" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0df82333-8dd3-2386-4548-831092c0a100" executionId="eaddf298-194c-4448-a7cc-131f5d3db2cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0e419ff0-125a-7bf6-462b-1ac3be8e60b3" executionId="eb7320a9-9d25-4007-a57a-694208dd9c7a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="14c26f63-240b-e300-a8d6-f98af12ef12c" executionId="dbbd8a14-3c2b-4499-a2d6-66d732edd10d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="176a39b7-5a56-778d-3917-c9942629793d" executionId="66fe31c4-88b8-4a14-9290-55c25d97c064" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="199832f9-d1c4-82b4-6ea8-6f9b106eb51f" executionId="1672e627-cb7d-49c2-a34f-2d7e58e41805" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1fcf22cd-f54d-e1e6-fd31-6cfb148ed886" executionId="ef961c13-9110-4236-aa8c-305135273bf6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="24c04acd-26f2-cbd9-bbfa-3094dab94a1b" executionId="16ad23d8-5638-4539-b6b4-6bc33ee5d049" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="28f7f648-05a2-44d1-103b-7fd5a2e1924b" executionId="c4301c69-7216-49c4-b51e-85f3aa0438db" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2cf52dbe-eb7f-1137-b0bc-942374cee146" executionId="e7d9e5b5-f9c3-4d21-b893-ce1bded0bf14" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="355d3f79-faa6-4ed9-bc49-0057d3295009" executionId="e634b65b-ac51-4381-95c0-d62c7509e789" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="447f6a17-9c3f-29ed-3a8a-ed52d629683f" executionId="b9e1c6e1-fa0b-4f9f-8d12-2b2d3c41d1da" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4846a8e9-75dc-cada-1387-c372c7702a90" executionId="9d6fbd2f-55bb-4bdc-ae75-faf3adf45ded" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="52dd4129-b1ee-c209-25fe-1e84cf03a0b4" executionId="dfbf6866-27ae-4cf6-ad03-c83a61194dd8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="55d7d97b-90da-424d-f7a3-3b4d69b551e8" executionId="c0db64bc-0ae4-4da6-b569-572c01ce66f7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="719b99a2-ccd9-d901-c33e-c7ca5b16d735" executionId="71cbbb69-7849-4750-858e-518ace10adc9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7525f8c9-a9cc-ce6e-158a-8531bc3dff4c" executionId="340d4010-b269-4406-bc61-6c61203754e0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="76663220-b66f-a344-1b95-70336a50cd79" executionId="221ff5b4-01f3-4b4f-9d4c-b47ffbae3aa3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="78c91968-703b-bff5-6f93-3d07f3ffd761" executionId="45123bd0-db23-4693-9a71-dd48b8e8ac9c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7b376514-6f80-ca16-fb57-fb767aea817f" executionId="b460dfc6-6d0e-4500-93e8-b27a8ea8492b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7de16891-0c69-f9dd-d022-02f5a9c59639" executionId="dbb0590e-d112-48ad-8f7f-9b1cb12895e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8107676f-e16c-cdfd-b679-3689e4311f36" executionId="28b372f4-1926-40bd-8604-4bb0ef02fe37" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="84331712-c27b-c50b-772b-5da9c5e5f9ca" executionId="51baa522-eace-443c-a634-d469dc35e655" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="871f49a1-e582-cdac-a951-441af8971063" executionId="20f2d23b-54d0-40b3-9df2-dbfb34c87bf8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8dcc9c7e-1445-b321-953e-5e9ded9d51f6" executionId="e6baa658-9331-419f-b8a3-f8f06dcfba75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99beaaa9-ba00-453d-6f49-d7020635f7ee" executionId="14f8f0e3-671f-485d-aeb4-abb784984f03" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9a8e8d08-2ba9-5e87-0fee-e892910cdbf8" executionId="66c93d14-877c-44f7-949f-9b3310a0293a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b2d885b-a8a7-03c1-299f-d762e20ec0ee" executionId="d0839673-6419-48c4-bb91-f57ecefefd20" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a131c1cd-5ebb-f896-bf70-e19826c2755a" executionId="b0207c99-5d33-4d4c-a5ef-5a79293b5f29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b1659d28-b526-6c16-48de-69e9c7dcfe18" executionId="d79371af-846a-44a9-8426-b0f45a289d63" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2747cb5-7215-0a6d-5362-1b292dab29c8" executionId="00167f0a-73a5-41e8-8ac9-154a0c812247" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5d2a033-45cf-3e8b-11d7-5e8ab35dc3ae" executionId="2cfb753a-2b66-4fe1-bd5b-7956ab3dfd81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c1a50ef4-2314-875b-518e-aabf370704d1" executionId="9ebd6c4c-65b7-436b-b390-e7bfeb5b72ec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c573a8cc-b339-9d86-475e-c296c732a297" executionId="57620d94-06e2-45a0-98d2-91528b393240" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf7300a1-3521-5eea-bdb6-deaacc452e6a" executionId="f3376ceb-b044-4f3e-ac87-0a417130d7af" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d1513a65-fdf8-872b-22b5-b71e36fa61db" executionId="6ccdd21d-8872-4ee6-ba17-ee4e7206a362" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e3259fc0-849f-28fd-20c2-ca89775496f9" executionId="64ca7edc-e271-4161-9838-4d06132eeea1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ec648528-7639-30f5-a594-aa50e078b4a6" executionId="868e7d70-c9a8-466c-8351-7549efcd08d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="eaddf298-194c-4448-a7cc-131f5d3db2cb" testId="0df82333-8dd3-2386-4548-831092c0a100" testName="TestAccountsWithSameNameCanExistInHierarchy" computerName="GARYHALL-PC" duration="00:00:00.0150754" startTime="2010-08-31T15:19:48.9900058+01:00" endTime="2010-08-31T15:19:49.3100241+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eaddf298-194c-4448-a7cc-131f5d3db2cb">
+    </UnitTestResult>
+    <UnitTestResult executionId="eb7320a9-9d25-4007-a57a-694208dd9c7a" testId="0e419ff0-125a-7bf6-462b-1ac3be8e60b3" testName="TestMoneyLessThan_WithDifferentCurrencies" computerName="GARYHALL-PC" duration="00:00:00.0059943" startTime="2010-08-31T15:19:49.3120242+01:00" endTime="2010-08-31T15:19:49.3270250+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb7320a9-9d25-4007-a57a-694208dd9c7a">
+    </UnitTestResult>
+    <UnitTestResult executionId="dbbd8a14-3c2b-4499-a2d6-66d732edd10d" testId="14c26f63-240b-e300-a8d6-f98af12ef12c" testName="TestIntegerMultiplication" computerName="GARYHALL-PC" duration="00:00:00.0019207" startTime="2010-08-31T15:19:49.3300252+01:00" endTime="2010-08-31T15:19:49.3380257+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dbbd8a14-3c2b-4499-a2d6-66d732edd10d">
+    </UnitTestResult>
+    <UnitTestResult executionId="66fe31c4-88b8-4a14-9290-55c25d97c064" testId="176a39b7-5a56-778d-3917-c9942629793d" testName="TestMoneyAddition" computerName="GARYHALL-PC" duration="00:00:00.0007828" startTime="2010-08-31T15:19:49.3410258+01:00" endTime="2010-08-31T15:19:49.3490263+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="66fe31c4-88b8-4a14-9290-55c25d97c064">
+    </UnitTestResult>
+    <UnitTestResult executionId="1672e627-cb7d-49c2-a34f-2d7e58e41805" testId="199832f9-d1c4-82b4-6ea8-6f9b106eb51f" testName="TestMoneyGreaterThan_WithDifferentCurrencies" computerName="GARYHALL-PC" duration="00:00:00.0007705" startTime="2010-08-31T15:19:49.3510264+01:00" endTime="2010-08-31T15:19:49.3590269+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1672e627-cb7d-49c2-a34f-2d7e58e41805">
+    </UnitTestResult>
+    <UnitTestResult executionId="ef961c13-9110-4236-aa8c-305135273bf6" testId="1fcf22cd-f54d-e1e6-fd31-6cfb148ed886" testName="TestNetWorth" computerName="GARYHALL-PC" duration="00:00:00.0044392" startTime="2010-08-31T15:19:49.3610270+01:00" endTime="2010-08-31T15:19:49.3710275+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ef961c13-9110-4236-aa8c-305135273bf6">
+    </UnitTestResult>
+    <UnitTestResult executionId="16ad23d8-5638-4539-b6b4-6bc33ee5d049" testId="24c04acd-26f2-cbd9-bbfa-3094dab94a1b" testName="TestMoneyLessThanOrEqualTo" computerName="GARYHALL-PC" duration="00:00:00.0004569" startTime="2010-08-31T15:19:49.3730277+01:00" endTime="2010-08-31T15:19:49.3790280+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="16ad23d8-5638-4539-b6b4-6bc33ee5d049">
+    </UnitTestResult>
+    <UnitTestResult executionId="c4301c69-7216-49c4-b51e-85f3aa0438db" testId="28f7f648-05a2-44d1-103b-7fd5a2e1924b" testName="TestMoneyGreaterThanOrEqualTo" computerName="GARYHALL-PC" duration="00:00:00.0004381" startTime="2010-08-31T15:19:49.3800281+01:00" endTime="2010-08-31T15:19:49.3860284+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4301c69-7216-49c4-b51e-85f3aa0438db">
+    </UnitTestResult>
+    <UnitTestResult executionId="e7d9e5b5-f9c3-4d21-b893-ce1bded0bf14" testId="2cf52dbe-eb7f-1137-b0bc-942374cee146" testName="TestAccountsWithSameNameCannotShareParent" computerName="GARYHALL-PC" duration="00:00:00.0006019" startTime="2010-08-31T15:19:49.3880285+01:00" endTime="2010-08-31T15:19:49.3940289+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7d9e5b5-f9c3-4d21-b893-ce1bded0bf14">
+    </UnitTestResult>
+    <UnitTestResult executionId="e634b65b-ac51-4381-95c0-d62c7509e789" testId="355d3f79-faa6-4ed9-bc49-0057d3295009" testName="TestAccountBalanceAllDeposits" computerName="GARYHALL-PC" duration="00:00:00.0016097" startTime="2010-08-31T15:19:49.3960290+01:00" endTime="2010-08-31T15:19:49.4030294+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e634b65b-ac51-4381-95c0-d62c7509e789">
+    </UnitTestResult>
+    <UnitTestResult executionId="b9e1c6e1-fa0b-4f9f-8d12-2b2d3c41d1da" testId="447f6a17-9c3f-29ed-3a8a-ed52d629683f" testName="TestAccountOnlyAppearsOnceInHierarchy" computerName="GARYHALL-PC" duration="00:00:00.0006301" startTime="2010-08-31T15:19:49.4050295+01:00" endTime="2010-08-31T15:19:49.4100298+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b9e1c6e1-fa0b-4f9f-8d12-2b2d3c41d1da">
+    </UnitTestResult>
+    <UnitTestResult executionId="9d6fbd2f-55bb-4bdc-ae75-faf3adf45ded" testId="4846a8e9-75dc-cada-1387-c372c7702a90" testName="TestRemoveAccount" computerName="GARYHALL-PC" duration="00:00:00.0006130" startTime="2010-08-31T15:19:49.4120299+01:00" endTime="2010-08-31T15:19:49.4180302+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9d6fbd2f-55bb-4bdc-ae75-faf3adf45ded">
+    </UnitTestResult>
+    <UnitTestResult executionId="dfbf6866-27ae-4cf6-ad03-c83a61194dd8" testId="52dd4129-b1ee-c209-25fe-1e84cf03a0b4" testName="TestNegativeUSDAmount" computerName="GARYHALL-PC" duration="00:00:00.0167129" startTime="2010-08-31T15:19:49.4200303+01:00" endTime="2010-08-31T15:19:49.6750449+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dfbf6866-27ae-4cf6-ad03-c83a61194dd8">
+    </UnitTestResult>
+    <UnitTestResult executionId="c0db64bc-0ae4-4da6-b569-572c01ce66f7" testId="55d7d97b-90da-424d-f7a3-3b4d69b551e8" testName="TestIntegerDivision" computerName="GARYHALL-PC" duration="00:00:00.0005072" startTime="2010-08-31T15:19:49.6790452+01:00" endTime="2010-08-31T15:19:49.6840454+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c0db64bc-0ae4-4da6-b569-572c01ce66f7">
+    </UnitTestResult>
+    <UnitTestResult executionId="71cbbb69-7849-4750-858e-518ace10adc9" testId="719b99a2-ccd9-d901-c33e-c7ca5b16d735" testName="TestAccountsCannotBeDirectlyCyclical" computerName="GARYHALL-PC" duration="00:00:00.0004735" startTime="2010-08-31T15:19:49.6860456+01:00" endTime="2010-08-31T15:19:49.6920459+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71cbbb69-7849-4750-858e-518ace10adc9">
+    </UnitTestResult>
+    <UnitTestResult executionId="340d4010-b269-4406-bc61-6c61203754e0" testId="7525f8c9-a9cc-ce6e-158a-8531bc3dff4c" testName="TestNegativeGBPAmount" computerName="GARYHALL-PC" duration="00:00:00.0003135" startTime="2010-08-31T15:19:49.6930460+01:00" endTime="2010-08-31T15:19:49.6990463+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="340d4010-b269-4406-bc61-6c61203754e0">
+    </UnitTestResult>
+    <UnitTestResult executionId="221ff5b4-01f3-4b4f-9d4c-b47ffbae3aa3" testId="76663220-b66f-a344-1b95-70336a50cd79" testName="TestMoneySubtraction" computerName="GARYHALL-PC" duration="00:00:00.0003067" startTime="2010-08-31T15:19:49.7000464+01:00" endTime="2010-08-31T15:19:49.7110470+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="221ff5b4-01f3-4b4f-9d4c-b47ffbae3aa3">
+    </UnitTestResult>
+    <UnitTestResult executionId="45123bd0-db23-4693-9a71-dd48b8e8ac9c" testId="78c91968-703b-bff5-6f93-3d07f3ffd761" testName="TestMoneyEquality" computerName="GARYHALL-PC" duration="00:00:00.0005653" startTime="2010-08-31T15:19:49.7130471+01:00" endTime="2010-08-31T15:19:49.7190474+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45123bd0-db23-4693-9a71-dd48b8e8ac9c">
+    </UnitTestResult>
+    <UnitTestResult executionId="b460dfc6-6d0e-4500-93e8-b27a8ea8492b" testId="7b376514-6f80-ca16-fb57-fb767aea817f" testName="ItShouldDelegateToThePersonForTheNetWorth" computerName="GARYHALL-PC" duration="00:00:00.0025039" startTime="2010-08-31T15:19:49.7210476+01:00" endTime="2010-08-31T15:19:49.7290480+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b460dfc6-6d0e-4500-93e8-b27a8ea8492b">
+    </UnitTestResult>
+    <UnitTestResult executionId="dbb0590e-d112-48ad-8f7f-9b1cb12895e2" testId="7de16891-0c69-f9dd-d022-02f5a9c59639" testName="TestMoneySubtraction_WithDifferentCurrencies" computerName="GARYHALL-PC" duration="00:00:00.0003353" startTime="2010-08-31T15:19:49.7310481+01:00" endTime="2010-08-31T15:19:49.7360484+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dbb0590e-d112-48ad-8f7f-9b1cb12895e2">
+    </UnitTestResult>
+    <UnitTestResult executionId="28b372f4-1926-40bd-8604-4bb0ef02fe37" testId="8107676f-e16c-cdfd-b679-3689e4311f36" testName="TestMoneyInequality" computerName="GARYHALL-PC" duration="00:00:00.0003694" startTime="2010-08-31T15:19:49.7370485+01:00" endTime="2010-08-31T15:19:49.7420488+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="28b372f4-1926-40bd-8604-4bb0ef02fe37">
+    </UnitTestResult>
+    <UnitTestResult executionId="51baa522-eace-443c-a634-d469dc35e655" testId="84331712-c27b-c50b-772b-5da9c5e5f9ca" testName="TestAccountsCannotBeIndirectlyCyclical" computerName="GARYHALL-PC" duration="00:00:00.0005478" startTime="2010-08-31T15:19:49.7440489+01:00" endTime="2010-08-31T15:19:49.7510493+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="51baa522-eace-443c-a634-d469dc35e655">
+    </UnitTestResult>
+    <UnitTestResult executionId="20f2d23b-54d0-40b3-9df2-dbfb34c87bf8" testId="871f49a1-e582-cdac-a951-441af8971063" testName="TestMoneyLessThanOrEqualTo_WithDifferentCurrencies" computerName="GARYHALL-PC" duration="00:00:00.0005973" startTime="2010-08-31T15:19:49.7540495+01:00" endTime="2010-08-31T15:19:49.7600498+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20f2d23b-54d0-40b3-9df2-dbfb34c87bf8">
+    </UnitTestResult>
+    <UnitTestResult executionId="e6baa658-9331-419f-b8a3-f8f06dcfba75" testId="8dcc9c7e-1445-b321-953e-5e9ded9d51f6" testName="TestMoneyAddition_WithDifferentCurrencies" computerName="GARYHALL-PC" duration="00:00:00.0003212" startTime="2010-08-31T15:19:49.7640500+01:00" endTime="2010-08-31T15:19:49.7690503+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e6baa658-9331-419f-b8a3-f8f06dcfba75">
+    </UnitTestResult>
+    <UnitTestResult executionId="14f8f0e3-671f-485d-aeb4-abb784984f03" testId="99beaaa9-ba00-453d-6f49-d7020635f7ee" testName="TestRemoveAccount" computerName="GARYHALL-PC" duration="00:00:00.0004906" startTime="2010-08-31T15:19:49.7710504+01:00" endTime="2010-08-31T15:19:49.7760507+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="14f8f0e3-671f-485d-aeb4-abb784984f03">
+    </UnitTestResult>
+    <UnitTestResult executionId="66c93d14-877c-44f7-949f-9b3310a0293a" testId="9a8e8d08-2ba9-5e87-0fee-e892910cdbf8" testName="TestCalculateNewBalanceWithDeposit" computerName="GARYHALL-PC" duration="00:00:00.0004402" startTime="2010-08-31T15:19:49.7780508+01:00" endTime="2010-08-31T15:19:49.7830511+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="66c93d14-877c-44f7-949f-9b3310a0293a">
+    </UnitTestResult>
+    <UnitTestResult executionId="d0839673-6419-48c4-bb91-f57ecefefd20" testId="9b2d885b-a8a7-03c1-299f-d762e20ec0ee" testName="TestDecimalAddition" computerName="GARYHALL-PC" duration="00:00:00.0004292" startTime="2010-08-31T15:19:49.7850512+01:00" endTime="2010-08-31T15:19:49.7900515+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0839673-6419-48c4-bb91-f57ecefefd20">
+    </UnitTestResult>
+    <UnitTestResult executionId="b0207c99-5d33-4d4c-a5ef-5a79293b5f29" testId="a131c1cd-5ebb-f896-bf70-e19826c2755a" testName="TestMoneyGreaterThan" computerName="GARYHALL-PC" duration="00:00:00.0003020" startTime="2010-08-31T15:19:49.7920516+01:00" endTime="2010-08-31T15:19:49.7980520+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b0207c99-5d33-4d4c-a5ef-5a79293b5f29">
+    </UnitTestResult>
+    <UnitTestResult executionId="d79371af-846a-44a9-8426-b0f45a289d63" testId="b1659d28-b526-6c16-48de-69e9c7dcfe18" testName="TestDefaultAccountBalanceIsZero" computerName="GARYHALL-PC" duration="00:00:00.0002483" startTime="2010-08-31T15:19:49.8000521+01:00" endTime="2010-08-31T15:19:49.8050524+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d79371af-846a-44a9-8426-b0f45a289d63">
+    </UnitTestResult>
+    <UnitTestResult executionId="00167f0a-73a5-41e8-8ac9-154a0c812247" testId="b2747cb5-7215-0a6d-5362-1b292dab29c8" testName="TestAddAccount" computerName="GARYHALL-PC" duration="00:00:00.0004351" startTime="2010-08-31T15:19:49.8070525+01:00" endTime="2010-08-31T15:19:49.8120528+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00167f0a-73a5-41e8-8ac9-154a0c812247">
+    </UnitTestResult>
+    <UnitTestResult executionId="2cfb753a-2b66-4fe1-bd5b-7956ab3dfd81" testId="b5d2a033-45cf-3e8b-11d7-5e8ab35dc3ae" testName="TestAddAccount" computerName="GARYHALL-PC" duration="00:00:00.0003123" startTime="2010-08-31T15:19:49.8130528+01:00" endTime="2010-08-31T15:19:49.8190532+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2cfb753a-2b66-4fe1-bd5b-7956ab3dfd81">
+    </UnitTestResult>
+    <UnitTestResult executionId="9ebd6c4c-65b7-436b-b390-e7bfeb5b72ec" testId="c1a50ef4-2314-875b-518e-aabf370704d1" testName="TestMoneyLessThan" computerName="GARYHALL-PC" duration="00:00:00.0002926" startTime="2010-08-31T15:19:49.8210533+01:00" endTime="2010-08-31T15:19:49.8260536+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9ebd6c4c-65b7-436b-b390-e7bfeb5b72ec">
+    </UnitTestResult>
+    <UnitTestResult executionId="57620d94-06e2-45a0-98d2-91528b393240" testId="c573a8cc-b339-9d86-475e-c296c732a297" testName="TestSimpleGBPAmount" computerName="GARYHALL-PC" duration="00:00:00.0002982" startTime="2010-08-31T15:19:49.8280537+01:00" endTime="2010-08-31T15:19:49.8330540+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="57620d94-06e2-45a0-98d2-91528b393240">
+    </UnitTestResult>
+    <UnitTestResult executionId="f3376ceb-b044-4f3e-ac87-0a417130d7af" testId="cf7300a1-3521-5eea-bdb6-deaacc452e6a" testName="TestCalculateNewBalanceWithWithdrawal" computerName="GARYHALL-PC" duration="00:00:00.0004501" startTime="2010-08-31T15:19:49.8350541+01:00" endTime="2010-08-31T15:19:49.8410544+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f3376ceb-b044-4f3e-ac87-0a417130d7af">
+    </UnitTestResult>
+    <UnitTestResult executionId="6ccdd21d-8872-4ee6-ba17-ee4e7206a362" testId="d1513a65-fdf8-872b-22b5-b71e36fa61db" testName="TestSimpleUSDAmount" computerName="GARYHALL-PC" duration="00:00:00.0003882" startTime="2010-08-31T15:19:49.8440546+01:00" endTime="2010-08-31T15:19:49.8490549+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6ccdd21d-8872-4ee6-ba17-ee4e7206a362">
+    </UnitTestResult>
+    <UnitTestResult executionId="64ca7edc-e271-4161-9838-4d06132eeea1" testId="e3259fc0-849f-28fd-20c2-ca89775496f9" testName="TestMoneyGreaterThanOrEqualTo_WithDifferentCurrencies" computerName="GARYHALL-PC" duration="00:00:00.0005537" startTime="2010-08-31T15:19:49.8520551+01:00" endTime="2010-08-31T15:19:49.8580554+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="64ca7edc-e271-4161-9838-4d06132eeea1">
+    </UnitTestResult>
+    <UnitTestResult executionId="868e7d70-c9a8-466c-8351-7549efcd08d8" testId="ec648528-7639-30f5-a594-aa50e078b4a6" testName="TestDecimalSubtraction" computerName="GARYHALL-PC" duration="00:00:00.0004449" startTime="2010-08-31T15:19:49.8600555+01:00" endTime="2010-08-31T15:19:49.8660559+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="868e7d70-c9a8-466c-8351-7549efcd08d8">
+    </UnitTestResult>
+  </Results>
+</TestRun>

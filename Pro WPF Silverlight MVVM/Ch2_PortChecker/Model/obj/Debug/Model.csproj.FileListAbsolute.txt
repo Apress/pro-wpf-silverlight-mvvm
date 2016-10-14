@@ -1,0 +1,10 @@
+C:\Users\Gary Hall\Desktop\Pro WPF and Silverlight MVVM\Code\Ch2\PortChecker_ModelView\Model\bin\Debug\PortChecker.Model.dll
+C:\Users\Gary Hall\Desktop\Pro WPF and Silverlight MVVM\Code\Ch2\PortChecker_ModelView\Model\bin\Debug\PortChecker.Model.pdb
+C:\Users\Gary Hall\Desktop\Pro WPF and Silverlight MVVM\Code\Ch2\PortChecker_ModelView\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gary Hall\Desktop\Pro WPF and Silverlight MVVM\Code\Ch2\PortChecker_ModelView\Model\obj\Debug\PortChecker.Model.dll
+C:\Users\Gary Hall\Desktop\Pro WPF and Silverlight MVVM\Code\Ch2\PortChecker_ModelView\Model\obj\Debug\PortChecker.Model.pdb
+C:\Users\Gary Hall\Documents\Books\Pro WPF and Silverlight MVVM\Code\Ch2\PortChecker_ModelView\Model\bin\Debug\PortChecker.Model.dll
+C:\Users\Gary Hall\Documents\Books\Pro WPF and Silverlight MVVM\Code\Ch2\PortChecker_ModelView\Model\bin\Debug\PortChecker.Model.pdb
+C:\Users\Gary Hall\Documents\Books\Pro WPF and Silverlight MVVM\Code\Ch2\PortChecker_ModelView\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gary Hall\Documents\Books\Pro WPF and Silverlight MVVM\Code\Ch2\PortChecker_ModelView\Model\obj\Debug\PortChecker.Model.dll
+C:\Users\Gary Hall\Documents\Books\Pro WPF and Silverlight MVVM\Code\Ch2\PortChecker_ModelView\Model\obj\Debug\PortChecker.Model.pdb

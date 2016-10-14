@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="46270b88-1964-46a0-ab6b-8ac5f7f20eb2" name="Gary Hall@GARYHALL-PC 2010-08-13 14:23:56" runUser="GaryHall-PC\Gary Hall" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e533ef08-9b5d-45f9-9cf4-b65cf17f0508">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Gary Hall_GARYHALL-PC 2010-08-13 14_23_56">
+      <DeploymentItem filename="D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model\bin\Debug\MyMoney.Model.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-08-13T14:23:56.7517732+01:00" queuing="2010-08-13T14:23:57.9118396+01:00" start="2010-08-13T14:23:57.9508418+01:00" finish="2010-08-13T14:23:58.3108624+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestCalculateNewBalanceWithDepost" storage="d:\users7\gary hall\development\mymoney.model\mymoney.model.test\bin\debug\mymoney.model.test.dll" id="db77feae-09b4-89e8-7067-b755532cf45c">
+      <Execution id="d014f34b-2f33-4790-bbe4-4fc27b4b6004" />
+      <TestMethod codeBase="D:/Users7/Gary Hall/Development/MyMoney.Model/MyMoney.Model.Test/bin/Debug/MyMoney.Model.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyMoney.Model.Test.EntryTests, MyMoney.Model.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCalculateNewBalanceWithDepost" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="db77feae-09b4-89e8-7067-b755532cf45c" executionId="d014f34b-2f33-4790-bbe4-4fc27b4b6004" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d014f34b-2f33-4790-bbe4-4fc27b4b6004" testId="db77feae-09b4-89e8-7067-b755532cf45c" testName="TestCalculateNewBalanceWithDepost" computerName="GARYHALL-PC" duration="00:00:00.0168345" startTime="2010-08-13T14:23:57.9748432+01:00" endTime="2010-08-13T14:23:58.2828608+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d014f34b-2f33-4790-bbe4-4fc27b4b6004">
+    </UnitTestResult>
+  </Results>
+</TestRun>

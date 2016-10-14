@@ -1,0 +1,22 @@
+﻿<Window x:Class="DataTemplateExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:DataTemplateExample"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <x:Array x:Key="domainObjectsList" Type="{x:Type local:DomainObject}">
+            <local:DomainObject />
+            <local:DomainObject />
+            <local:DomainObject />
+        </x:Array>
+    </Window.Resources>
+    <StackPanel Width="250">
+        <ComboBox SelectedIndex="0" ItemsSource="{Binding Source={StaticResource domainObjectsList}}">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Path=DisplayText}" />
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+    </StackPanel>
+</Window>

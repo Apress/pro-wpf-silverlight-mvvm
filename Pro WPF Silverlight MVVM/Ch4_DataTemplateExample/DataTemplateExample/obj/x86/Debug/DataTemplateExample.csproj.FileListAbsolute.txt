@@ -1,0 +1,15 @@
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\bin\Debug\DataTemplateExample.exe
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\bin\Debug\DataTemplateExample.pdb
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\MainWindow.g.cs
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\App.g.cs
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\DataTemplateExample_MarkupCompile.cache
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\DataTemplateExample_MarkupCompile.lref
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\MainWindow.baml
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\DataTemplateExample.g.resources
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\DataTemplateExample.Properties.Resources.resources
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\DataTemplateExample.exe
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\DataTemplateExample.pdb
+D:\Users7\Gary Hall\Development\DataTemplateExample\DataTemplateExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs

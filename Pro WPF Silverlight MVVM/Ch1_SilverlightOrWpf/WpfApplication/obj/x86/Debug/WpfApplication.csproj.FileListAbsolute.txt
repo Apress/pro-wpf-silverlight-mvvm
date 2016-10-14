@@ -1,0 +1,2 @@
+C:\Users\Gary Hall\Documents\Books\Pro WPF and Silverlight MVVM\Code\Chapter 1\SilverlightOrWpf\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Gary Hall\Documents\Books\Pro WPF and Silverlight MVVM\Code\SilverlightOrWpf\WpfApplication\bin\Debug\WpfApplication.exe

@@ -1,0 +1,13 @@
+﻿<Window x:Class="DebuggingBindingsExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:DebuggingBindingsExample"
+        xmlns:diagnostics="clr-namespace:System.Diagnostics;assembly=WindowsBase"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <local:DomainObject x:Key="myDomainObject" />
+    </Window.Resources>
+    <Grid>
+        <TextBlock Text="{Binding Source={StaticResource myDomainObject}, Path=ErroneousProperty, diagnostics:PresentationTraceSources.TraceLevel=High}" />
+    </Grid>
+</Window>

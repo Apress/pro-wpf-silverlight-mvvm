@@ -1,0 +1,7 @@
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model.Test\bin\Debug\MyMoney.Model.Test.dll
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model.Test\bin\Debug\MyMoney.Model.Test.pdb
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model.Test\bin\Debug\MyMoney.Model.dll
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model.Test\bin\Debug\MyMoney.Model.pdb
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model.Test\obj\Debug\MyMoney.Model.Test.dll
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.Model.Test\obj\Debug\MyMoney.Model.Test.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicalAndVisualTreeExample", "LogicalAndVisualTreeExample\LogicalAndVisualTreeExample.csproj", "{51C6A7B6-A5DE-49E9-84EE-61B70EA1391C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C6A7B6-A5DE-49E9-84EE-61B70EA1391C}.Debug|x86.ActiveCfg = Debug|x86
+		{51C6A7B6-A5DE-49E9-84EE-61B70EA1391C}.Debug|x86.Build.0 = Debug|x86
+		{51C6A7B6-A5DE-49E9-84EE-61B70EA1391C}.Release|x86.ActiveCfg = Release|x86
+		{51C6A7B6-A5DE-49E9-84EE-61B70EA1391C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

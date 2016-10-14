@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="MyMoney.View.EntriesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:viewModel="clr-namespace:MyMoney.ViewModel;assembly=MyMoney.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <viewModel:MoneyViewModelConverter x:Key="moneyViewModelConverter" />     
+    </UserControl.Resources>
+    <DataGrid ItemsSource="{Binding Entries}" AutoGenerateColumns="False" InitializingNewItem="DataGrid_InitializingNewItem">
+        <DataGrid.Columns>
+            <DataGridTextColumn Width="3*" Header="Description" Binding="{Binding Description}" />
+            <DataGridTextColumn Width="1*" Header="Deposit" Binding="{Binding Deposit, Converter={StaticResource moneyViewModelConverter}}" />
+            <DataGridTextColumn Width="1*" Header="Withdrawal" Binding="{Binding Withdrawal, Converter={StaticResource moneyViewModelConverter}}" />
+            <DataGridTextColumn Width="1*" Header="Balance" Binding="{Binding CurrentBalance}"  IsReadOnly="True" />
+        </DataGrid.Columns>
+    </DataGrid>
+</UserControl>

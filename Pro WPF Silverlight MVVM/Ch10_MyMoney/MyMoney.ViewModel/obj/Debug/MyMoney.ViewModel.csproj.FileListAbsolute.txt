@@ -1,0 +1,7 @@
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.ViewModel\bin\Debug\MyMoney.ViewModel.dll
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.ViewModel\bin\Debug\MyMoney.ViewModel.pdb
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.ViewModel\bin\Debug\MyMoney.Model.dll
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.ViewModel\bin\Debug\MyMoney.Model.pdb
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.ViewModel\obj\Debug\ResolveAssemblyReference.cache
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.ViewModel\obj\Debug\MyMoney.ViewModel.dll
+D:\Users7\Gary Hall\Development\MyMoney.Model\MyMoney.ViewModel\obj\Debug\MyMoney.ViewModel.pdb

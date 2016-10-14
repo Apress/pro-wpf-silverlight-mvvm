@@ -1,0 +1,17 @@
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\bin\Debug\MultiValueConverterExample.exe
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\bin\Debug\MultiValueConverterExample.pdb
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\MainWindow.baml
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\MainWindow.g.cs
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\App.g.cs
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\MultiValueConverterExample_MarkupCompile.cache
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\MultiValueConverterExample.g.resources
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\MultiValueConverterExample.Properties.Resources.resources
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\MultiValueConverterExample.exe
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\MultiValueConverterExample.pdb
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\MultiValueConverterExample_MarkupCompile.lref
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\EnumerationBindingExample.baml
+D:\Users7\Gary Hall\Development\MultiValueConverterExample\MultiValueConverterExample\obj\x86\Debug\EnumerationBindingExample.g.cs
